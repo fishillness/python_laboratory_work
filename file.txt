@@ -1,0 +1,5 @@
+Americano 150ml,150rub 
+Latte 450ml,250rub 
+Capuchino 350ml,200rub 
+Raff 450ml,300rub 
+Espresso 50ml,150rub 

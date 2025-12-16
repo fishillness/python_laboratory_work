@@ -16,7 +16,7 @@ def GetUserInputOfNumber(inputText):
 
 # Аналогична с предыдущей  функцией, только в данном случае пользователю
 # нужно ответить да или нет.
-def GetserInputOfBool(inputText):
+def GetUserInputOfBool(inputText):
     while True:
         print(inputText)
         result = input("= ")
