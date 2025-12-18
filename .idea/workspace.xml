@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd2e563d-20f6-4ae5-bd98-6370ade6a67e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lb3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lb4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lb2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,8 @@
     "Python.lb1.executor": "Run",
     "Python.lb2.executor": "Run",
     "Python.lb3.executor": "Run",
+    "Python.lb4.executor": "Run",
+    "Python.te5t.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
